@@ -8,4 +8,4 @@ Pratical usage of the BeautifulSoup and Requests wheels
   pip install requests
 
 calling function:
-myScrap = ScrapDigitalDropsIn('your category here')
+myScrap = ScrapDigitalDropsIn('your category here') 
