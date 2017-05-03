@@ -7,9 +7,11 @@
   
 ### pip:
 
-  * pip install bs4
-  * pip install requests
+  * pip install bs4 {for BeautifulSoup}
+  * pip install requests {for Requests}
 
 ### def function:
 
-##### def ScrapDigitalDropsIn(category=''): return posts 
+**def** ScrapDigitalDropsIn(category=''): **return** posts
+
+for the especificle example, i'm using the http://digitaldrops.com.br website, check the full html after if you want.
