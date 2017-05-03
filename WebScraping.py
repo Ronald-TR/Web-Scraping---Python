@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+
 def ScrapDigitalDropsIn(category=''):
     if category.__eq__(''):
         return 'Insert a category'
